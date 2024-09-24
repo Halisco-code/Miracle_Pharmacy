@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ /* body{
+  overflow: hidden;
+ } */
+
+  marquee{
+    background-color: #6220fb;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    /* margin: 200px 50px; */
+  }
+  .ben{
+    height: 80vh;
+  }
